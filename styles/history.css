@@ -1,4 +1,4 @@
-.history-section {
+.history {
     padding: 65px 0 70px;
     text-align: center;
     color: var(--color-main-black);
@@ -32,7 +32,7 @@
     .history-description {
         font-size: 14px;
     }
-    .history-section {
+    .history {
         padding: 50px 0 70px;
     }
 }
