@@ -29,4 +29,7 @@
     .portfolin-description {
         font-size: 14px;
     }
+    .portfolio {
+        padding: 50px 0 70px;
+    }
 }
